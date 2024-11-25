@@ -1,0 +1,12 @@
+INSERT INTO tb_clientes(name, cpf, birth_date, children) VALUES ('Andre Coutinho', '76567865301', '2001-07-25', 3);
+INSERT INTO tb_clientes(name, cpf, birth_date, children) VALUES ('Andre Matias', '10020030098', '2000-08-28', 2);
+INSERT INTO tb_clientes(name, cpf, birth_date, children) VALUES ('Felipe Couto', '10134567809', '2003-09-23', 1);
+INSERT INTO tb_clientes(name, cpf, birth_date, children) VALUES ('Maria Pereira', '89034898998', '1991-07-10', 4);
+INSERT INTO tb_clientes(name, cpf, birth_date, children) VALUES ('Alisson Cruz', '45454645708', '1995-10-11', 2);
+INSERT INTO tb_clientes(name, cpf, birth_date, children) VALUES ('Ana Julia', '76567866565', '2001-06-02', 5);
+INSERT INTO tb_clientes(name, cpf, birth_date, children) VALUES ('Juliana Mara', '78787890908', '2001-05-03', 3);
+INSERT INTO tb_clientes(name, cpf, birth_date, children) VALUES ('Sara Leite', '76567865302', '2001-04-13', 2);
+INSERT INTO tb_clientes(name, cpf, birth_date, children) VALUES ('Erika Evelyn', '76567865304', '2001-03-20', 1);
+INSERT INTO tb_clientes(name, cpf, birth_date, children) VALUES ('Thais Ramires', '76587765301', '2001-02-10', 1);
+INSERT INTO tb_clientes(name, cpf, birth_date, children) VALUES ('Daniel Felipe', '76567865310', '2001-01-04', 3);
+INSERT INTO tb_clientes(name, cpf, birth_date, children) VALUES ('Gustavo Adriano', '76567866789', '2001-11-12', 2);
